@@ -2,6 +2,7 @@
 members = [
     "docgen",
     "drivers/ahcid",
+    "drivers/alxd",
     "drivers/bgad",
     "drivers/e1000d",
     "drivers/nvmed",
