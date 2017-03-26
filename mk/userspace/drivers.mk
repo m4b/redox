@@ -1,5 +1,6 @@
 drivers: \
 	filesystem/sbin/pcid \
+	filesystem/sbin/alxd \
 	filesystem/sbin/e1000d \
 	filesystem/sbin/rtl8168d \
 	filesystem/sbin/xhcid
