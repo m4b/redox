@@ -1,4 +1,11 @@
 [[drivers]]
+name = "QCA8171"
+class = 2
+vendor = 6505
+device = 4257
+command = ["/sbin/alxd", "$NAME", "$BAR0", "$IRQ"]
+
+[[drivers]]
 name = "82543GC NIC"
 class = 2
 vendor = 32902
